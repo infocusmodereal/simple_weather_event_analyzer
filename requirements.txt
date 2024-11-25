@@ -1,0 +1,3 @@
+git+https://github.com/weatherapicom/python.git#egg=weatherapipython
+confluent-kafka
+click
